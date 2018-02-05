@@ -1,5 +1,6 @@
 .DS_Store
 /data
+/floyd
 /.ipynb_checkpoints
 /__pycache__
 *pyc
